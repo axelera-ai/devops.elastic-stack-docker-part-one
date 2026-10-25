@@ -1,0 +1,8 @@
+# Written by devops-overseer generate-co on 2026-10-25. Run it again rather than editing it.
+# The rest of devops.elastic-stack-docker-part-one is owned by team-software-delivery, by decision on INF-3768,
+# not by the identity-provider teams of its top contributors.
+
+* @axelera-ai/team-software-delivery
+
+/.github/ @axelera-ai/team-software-delivery
+/CODEOWNERS @axelera-ai/team-it-security @axelera-ai/team-software-delivery
